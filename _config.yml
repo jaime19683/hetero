@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://jaime19683.github.com/hetero
+title: Heteroscadasticityg
+subtitle: ". . has never been a reason to throw out an otherwise good model."
+author: Jamie Yeats
 simple_search: http://google.com/search
-description:
+description: a blog to test my patience . . .
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -16,7 +16,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /hetero/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -26,17 +26,17 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /hetero
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/hetero
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
 markdown: rdiscount
-pygments: false # default python pygments have been replaced by pygments.rb
+pygments: true # default python pygments have been replaced by pygments.rb
 
-paginate: 10          # Posts per page on the blog index
+paginate: 5          # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
@@ -58,14 +58,14 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: jaime19683
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_count: 4
+twitter_user: jaime27
+twitter_tweet_count: 6
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
