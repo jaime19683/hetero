@@ -52,7 +52,7 @@ categories:
 </li>
 
 <li id="fn:3">
-<p>The court system also coerces diversion by encouraging plea bargaining; again in lieu of fixing the system. See this interesting recent NY Times Op-Ed entitled <a href="http://www.clarity-international.net/journals/47.pdf">Go to Trial: Crash the Justice System</a>. <a href="#fnref:3" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+<p>The court system also coerces diversion by encouraging plea bargaining; again in lieu of fixing the system. See this interesting recent NY Times Op-Ed entitled <a href="http://www.nytimes.com/2012/03/11/opinion/sunday/go-to-trial-crash-the-justice-system.html">Go to Trial: Crash the Justice System</a>. <a href="#fnref:3" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
 </li>
 
 <li id="fn:4">
@@ -61,4 +61,5 @@ categories:
 
 </ol>
 </div>
+
 
