@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Stupid Little Realization Stories"
+date: 2012-03-16 20:35
+comments: true
+categories: LitCrit
+---
+<p>The term <strong><em>New Yorker Stories</em></strong> has become a generic one in my family for stories that may or may not have actually been printed in the <em>New Yorker</em> magazine, but that start and end at apparently arbitrary points and vary in tone from glum to worse.</p>
+
+<p>Over a recent weekend I was re-reading Alice Munro&#8217;s collection of short stories, <em>Too Much Happiness</em>, in preparation for a group discussion . When I took a break my wife asked me what the stories were like. After I described one she said, &#8220;Oh, you mean they&#8217;re <em>New Yorker Stories</em>.&#8221;</p>
+
+<p>Later that same weekend I ran across the below from Allison Lurie&#8217;s review of Julian Barnes&#8217; latest in the <a href="http://www.nybooks.com/articles/archives/2011/jun/09/master-downbeat/">NYRB</a>:</p>
+
+<blockquote>
+<p>&#8220;Literary fiction, however, now tends to conform to Tom Stoppard’s addition to Miss Prism’s Rule, first stated in Rosencrantz and Guildenstern Are Dead (1966): “The bad end unhappily, the good unluckily. That is what tragedy means.” The scale of the tragedy, of course, varies widely. When we begin a story by a known and admired writer in a known and admired journal, we do not always expect a major disaster, but we know that something unpleasant is going to happen to the main characters, and/or that they will end up understanding something unpleasant about themselves, their friends or family, or the world in general. (Years ago, a Harvard student called Speed Lamkin described the latter tales to me as “stupid little realization stories.”)&#8221;</p>
+</blockquote>
+
+<p>This seemed to be a most satisfactory description of the <em>New Yorker Story</em>.   The only opportunity for improvement would be to replace the phrase &#8220;known and admired journal&#8221; with some more explicit reference to the <em>New Yorker</em>.</p>
