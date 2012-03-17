@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://jaime19683.github.com/hetero/blog/2012/03/16/new-post/</loc>
+        <lastmod>2012-03-16T20:20:13-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://jaime19683.github.com/hetero/blog/archives/</loc>
-        <lastmod>2012-03-15T20:39:25-04:00</lastmod>
+        <lastmod>2012-03-16T20:20:13-04:00</lastmod>
     </url>
     <url>
         <loc>http://jaime19683.github.com/hetero/</loc>
-        <lastmod>2012-03-15T20:39:25-04:00</lastmod>
+        <lastmod>2012-03-16T20:20:13-04:00</lastmod>
     </url>
 </urlset>
