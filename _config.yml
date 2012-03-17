@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://jaime19683.github.com/hetero
-title: Heteroscadasticityg
+title: Heteroscadasticity
 subtitle: ". . has never been a reason to throw out an otherwise good model."
 author: Jamie Yeats
 simple_search: http://google.com/search
@@ -65,7 +65,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: jaime27
-twitter_tweet_count: 6
+twitter_tweet_count: 3
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
