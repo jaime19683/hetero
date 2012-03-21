@@ -28,7 +28,7 @@
     </url>
     <url>
         <loc>http://jaime19683.github.com/hetero/about/</loc>
-        <lastmod>2012-03-20T22:22:38-04:00</lastmod>
+        <lastmod>2012-03-21T19:35:12-04:00</lastmod>
     </url>
     <url>
         <loc>http://jaime19683.github.com/hetero/blog/archives/</loc>
@@ -37,5 +37,9 @@
     <url>
         <loc>http://jaime19683.github.com/hetero/</loc>
         <lastmod>2012-03-17T17:43:24-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jaime19683.github.com/hetero/library/</loc>
+        <lastmod>2012-03-21T19:33:53-04:00</lastmod>
     </url>
 </urlset>
